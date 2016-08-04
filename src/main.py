@@ -24,7 +24,7 @@ sess = tf.Session()
 sess.run(init)
 
 # actual training
-for i in range(10000):
+for i in range(1000):
     batch_xs, batch_ys = mnist.train.next_batch(100)
     sess.run(train_step, feed_dict={x: batch_xs, y_: batch_ys})
 
