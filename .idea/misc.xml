@@ -10,5 +10,5 @@
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3+ virtualenv at /cs/cbio/paz/dev/p3" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3+ virtualenv at /cs/cbio/paz/dev/python3.4+tf" project-jdk-type="Python SDK" />
 </project>
